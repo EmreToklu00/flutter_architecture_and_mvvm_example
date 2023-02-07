@@ -1,0 +1,32 @@
+{
+    "welcome": {
+        "hello": "welcome home"
+    },
+    "test": "this is a test string.",
+    "test2": "test222",
+    "tabBar": {
+        "tab1": "Products",
+        "tab2": "Discover",
+        "tab3": "Bookmarks"
+    },
+    "home": {
+        "appbar": "Products"
+    },
+    "user": {
+        "appbar": {
+            "title": "Users"
+        }
+    },
+    "userDetail": {
+        "card1": "Name Surname:",
+        "card2": "Username:",
+        "card3": "Email:",
+        "card4": "Password:",
+        "card5": "City:",
+        "card6": "Street:",
+        "card7": "Number:",
+        "card8": "Zipcode:",
+        "card9": "Latitude:",
+        "card10": "Longtude:"
+    }
+}

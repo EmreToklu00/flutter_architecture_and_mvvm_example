@@ -1,0 +1,32 @@
+{
+    "welcome": {
+        "hello": "eve hoş geldin"
+    },
+    "test": "bu bir test kelimesidir.",
+    "test2": "test222",
+    "tabBar": {
+        "tab1": "Ürünler",
+        "tab2": "Keşif",
+        "tab3": "Yer İşaretleri"
+    },
+    "home": {
+        "appbar": "Ürünler"
+    },
+    "user": {
+        "appbar": {
+            "title": "Kullanıcılar"
+        }
+    },
+    "userDetail": {
+        "card1": "İsim Soyisim:",
+        "card2": "Kullanıcı Adı:",
+        "card3": "E-mail:",
+        "card4": "Şifre:",
+        "card5": "Şehir:",
+        "card6": "Sokak:",
+        "card7": "Numara:",
+        "card8": "Posta Kodu:",
+        "card9": "Enlem:",
+        "card10": "Boylam:"
+    }
+}
