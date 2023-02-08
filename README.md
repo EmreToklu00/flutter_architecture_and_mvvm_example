@@ -1,8 +1,7 @@
 # Flutter MVVM Example
+<a name="readme-top"></a>
 
 Model–View–ViewModel (MVVM) is a very established architectural pattern when it's come to software development. Here I have tried to put MVVM in simple example which will help you to implement in any project. 
-
-<a name="readme-top"></a>
 
 ## Run Locally
 
