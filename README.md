@@ -44,4 +44,4 @@ Start the application
 <img src="https://github.com/EmreToklu00/flutter_mvvm_example/blob/main/github/screen_dark.png" width="292" height="633">
 </p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><-<a href="#readme-top">back to top</a>-></p>
