@@ -5,9 +5,9 @@ Model–View–ViewModel (MVVM) is a very established architectural pattern when
 
 ## Folders and Pubspec
 
-![Widget Screenshot](https://github.com/EmreToklu00/flutter_mvvm_example/blob/main/github/lib.png)
-![Widget Screenshot](https://github.com/EmreToklu00/flutter_mvvm_example/blob/main/github/pubspec.png)
-
-
+<p align="center">
+  <img src="https://github.com/EmreToklu00/flutter_mvvm_example/blob/main/github/lib.png">
+  <img src="https://github.com/EmreToklu00/flutter_mvvm_example/blob/main/github/pubspec.png">
+</p>
 
 
