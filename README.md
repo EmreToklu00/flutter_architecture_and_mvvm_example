@@ -19,3 +19,30 @@ Model–View–ViewModel (MVVM) is a very established architectural pattern when
 <img src="https://github.com/EmreToklu00/flutter_mvvm_example/blob/main/github/screen_2_1.png" width="292" height="633">
 <img src="https://github.com/EmreToklu00/flutter_mvvm_example/blob/main/github/screen_dark.png" width="292" height="633">
 </p>
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/EmreToklu00/flutter_mvvm_example.git
+```
+
+Go to the project directory
+
+```bash
+  cd flutter_mvvm_example
+```
+
+```bash
+  flutter pub get
+```
+
+Start the application
+
+```bash
+  flutter run
+```
+
+
