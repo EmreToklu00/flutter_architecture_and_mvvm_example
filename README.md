@@ -3,30 +3,6 @@
 
 Model–View–ViewModel (MVVM) is a very established architectural pattern when it's come to software development. Here I have tried to put MVVM in simple example which will help you to implement in any project. 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/EmreToklu00/flutter_mvvm_example.git
-```
-
-Go to the project directory
-
-```bash
-  cd flutter_mvvm_example
-```
-
-```bash
-  flutter pub get
-```
-
-Start the application
-
-```bash
-  flutter run
-```
-
 ## Folders and Pubspec
 
 <div align="center">
